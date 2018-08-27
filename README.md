@@ -57,23 +57,30 @@ This is a list of resources that help me keep up to date with the latest in web 
 * JSBin
 
 ## Newsletters
-* [A List Apart](https://alistapart.com/email-signup/) - A List Apart explores the design, development, and meaning of web content, with a special focus on web standards and best practices. It began as a mailing list in 1997 and launched the website in 1998. 
-* [JavaScript Weekly](https://javascriptweekly.com/) - A once–weekly email roundup of JavaScript news and articles from [Cooper Press](https://cooperpress.com/).
-* [React Status](https://react.statuscode.com/) - A weekly roundup of the latest React and React Native links and tutorials from [Cooper Press](https://cooperpress.com/).
-* [Frontend Focus](https://frontendfoc.us/) - A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more from [Cooper Press](https://cooperpress.com/).
-* [CSS Weekly](https://css-weekly.com/) - weekly e-mail roundup of css articles, tutorials, experiments and tools curated by [Zoran Jambor](https://twitter.com/ZoranJambor)
-* [CSS Layout News](http://csslayout.news/) - A weekly collection of tutorials, news and information on all things CSS Layout from [Rachel Andrew](https://rachelandrew.co.uk/).
-* [The UI Animation Newsletter](https://valhead.com/newsletter/) - Weekly web animation resources & inspiration from [Val Head](https://valhead.com/).
-* [Neilson Norman Group](https://www.nngroup.com/articles/subscribe/) - The latest articles about interface usability, website design, and UX research from the Nielsen Norman Group
-* [History of the Web](https://thehistoryoftheweb.com/) - The web's most fascinating stories, delivered each week.
-* [Responsive Design Weekly](http://responsivedesignweekly.com/) - A once–weekly round-up of responsive design articles, tools, tips, tutorials and inspirational links.
-* [Web Design Weekly](https://web-design-weekly.com/) - Weekly roundup of articles related to web development & design.
-* [Smashing Magazine Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) - An editorial email newsletter twice a month with useful tips, tricks, and resources for designers and developers.
-* [Mozilla Developer Newsletter](https://developer.mozilla.org/en-US/) - Get the latest and greatest from MDN delivered straight to your inbox.
-* [Mobile Dev Weekly](https://mobiledevweekly.com/) - A weekly round-up for Web and app developers spanning the mobile-facing Web and native apps.
-* [Web Development Reading List](https://wdrl.info/) - A handcrafted, carefully created weekly update resource for web developers by [Anselm Hannemann](https://helloanselm.com/).
-* [Web Tools Weekly](https://webtoolsweekly.com/) - Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
-* [Node Weekly](https://nodeweekly.com/) - A once–weekly e-mail round-up of Node.js news and articles.
+* General Web
+ * [History of the Web](https://thehistoryoftheweb.com/) - The web's most fascinating stories, delivered each week.
+ * [A List Apart](https://alistapart.com/email-signup/) - A List Apart explores the design, development, and meaning of web content, with a special focus on web standards and best practices. It began as a mailing list in 1997 and launched the website in 1998. 
+ * [Frontend Focus](https://frontendfoc.us/) - A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more from [Cooper Press](https://cooperpress.com/).
+ * [Smashing Magazine Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) - An editorial email newsletter twice a month with useful tips, tricks, and resources for designers and developers.
+ * [Mozilla Developer Newsletter](https://developer.mozilla.org/en-US/) - Get the latest and greatest from MDN delivered straight to your inbox.
+ * [Web Development Reading List](https://wdrl.info/) - A handcrafted, carefully created weekly update resource for web developers by [Anselm Hannemann](https://helloanselm.com/).
+ * [Web Tools Weekly](https://webtoolsweekly.com/) - Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
+* Mobile Web
+ * [Mobile Dev Weekly](https://mobiledevweekly.com/) - A weekly round-up for Web and app developers spanning the mobile-facing Web and native apps.
+* Design
+ * [Neilson Norman Group](https://www.nngroup.com/articles/subscribe/) - The latest articles about interface usability, website design, and UX research from the Nielsen Norman Group
+ * [Responsive Design Weekly](http://responsivedesignweekly.com/) - A once–weekly round-up of responsive design articles, tools, tips, tutorials and inspirational links.
+ * [Web Design Weekly](https://web-design-weekly.com/) - Weekly roundup of articles related to web development & design.
+* CSS
+ * [CSS Weekly](https://css-weekly.com/) - weekly e-mail roundup of css articles, tutorials, experiments and tools curated by [Zoran Jambor](https://twitter.com/ZoranJambor)
+ * [CSS Layout News](http://csslayout.news/) - A weekly collection of tutorials, news and information on all things CSS Layout from [Rachel Andrew](https://rachelandrew.co.uk/).
+* JavaScript
+ * [JavaScript Weekly](https://javascriptweekly.com/) - A once–weekly email roundup of JavaScript news and articles from [Cooper Press](https://cooperpress.com/).
+ * [React Status](https://react.statuscode.com/) - A weekly roundup of the latest React and React Native links and tutorials from [Cooper Press](https://cooperpress.com/).
+ * [Node Weekly](https://nodeweekly.com/) - A once–weekly e-mail round-up of Node.js news and articles.
+* Animation & Data Visualization
+ * [The UI Animation Newsletter](https://valhead.com/newsletter/) - Weekly web animation resources & inspiration from [Val Head](https://valhead.com/).
+
 
 ## Other Keeping-Up Lists
 * [How to keep up to date on front-end technologies](https://uptodate.frontendrescue.org/)
