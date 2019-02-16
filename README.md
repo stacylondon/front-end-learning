@@ -23,6 +23,7 @@ This is a list of resources that have helped me learn web development over the y
 ## JavaScript
 * [Mozilla Developer Network - A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [ES Modules: A cartoon deep dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/) by [Lin Clark](https://code-cartoons.com/).
+* [Learning JavaScript Design Patterns] (https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ## CSS
 * [Inside a super fast CSS engine: Quantum CSS (aka Stylo)](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/) by [Lin Clark](https://code-cartoons.com/).
