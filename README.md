@@ -69,7 +69,7 @@ This is a list of resources that help me keep up to date with the latest in web 
 * Mobile Web
   * [Mobile Dev Weekly](https://mobiledevweekly.com/) - A weekly round-up for Web and app developers spanning the mobile-facing Web and native apps.
 * Design
-  * [Neilson Norman Group](https://www.nngroup.com/articles/subscribe/) - The latest articles about interface usability, website design, and UX research from the Nielsen Norman Group
+  * [Nielsen Norman Group](https://www.nngroup.com/articles/subscribe/) - The latest articles about interface usability, website design, and UX research from the Nielsen Norman Group
   * [Responsive Design Weekly](http://responsivedesignweekly.com/) - A once–weekly round-up of responsive design articles, tools, tips, tutorials and inspirational links.
   * [Web Design Weekly](https://web-design-weekly.com/) - Weekly roundup of articles related to web development & design.
 * CSS
