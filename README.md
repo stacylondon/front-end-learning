@@ -7,8 +7,10 @@ This is a list of resources that have helped me learn web development over the y
 * [Designing with Web Standards (3rd Edition)](http://www.amazon.com/Designing-Web-Standards-Jeffrey-Zeldman/dp/0321616952/ref=sr_1_3?ie=UTF8&qid=1422842158&sr=8-3&keywords=standards+based+web+design) by Jeffrey Zeldman with Ethan Marcotte (October 25, 2009, original edition 2003)
 * [Responsive Design](http://alistapart.com/article/responsive-web-design) by Ethan Marcotte (May 25, 2010)
 * [Adaptive Web Design: Crafting Rich Experiences with Progressive Enhancement](http://www.amazon.com/Adaptive-Web-Design-Experiences-Progressive-ebook/dp/B0056ICETG/ref=sr_1_1?ie=UTF8&qid=1422844290&sr=8-1&keywords=aaron+gustafson) by Aaron Gustafson (May 31, 2011)
-* [Nicholas Zakas: Progressive Enhancement 2.0](https://youtu.be/hdTxeR90_1E)
-* [Mobile First](https://abookapart.com/products/mobile-first) - by Luke Wroblewski (2011) 
+* [Mobile First](https://abookapart.com/products/mobile-first) by Luke Wroblewski (2011) 
+* [Nicholas Zakas: Progressive Enhancement 2.0](https://youtu.be/hdTxeR90_1E) (March 5th, 2012)
+* [Scalable and Modular Architecture for CSS](http://smacss.com/) by Jonathan Snook (2012)
+* [Coding Standards](https://isobar-us.github.io/code-standards/) (2015) - A great snapshot in time of best practices 
 
 ## The Internet / Web Platform
 * [Mozilla Developer Network - Learning the Web](https://developer.mozilla.org/en-US/Learn)
@@ -24,6 +26,9 @@ This is a list of resources that have helped me learn web development over the y
 ## CSS
 * [Mozilla Developer Network - Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 * [Inside a super fast CSS engine: Quantum CSS (aka Stylo)](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/) by [Lin Clark](https://code-cartoons.com/).
+* [Flexbox Froggy](https://flexboxfroggy.com/) - learn Flexbox in a fun way
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Grid Garden](https://codepip.com/games/grid-garden/) - learn CSS Grid in a fun way
 
 ## JavaScript
 * [Mozilla Developer Network - A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
@@ -33,6 +38,9 @@ This is a list of resources that have helped me learn web development over the y
 ## Accessibility (a11y)
 * [Mozilla Developer Network - Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 
+## Responsive
+* [This is Responsive](http://bradfrost.github.io/this-is-responsive/index.html) by Brad Frost
+
 # Keeping up with Front-End Development
 
 This is a list of resources that help me keep up to date with the latest in web development.
@@ -41,6 +49,7 @@ This is a list of resources that help me keep up to date with the latest in web 
 * Checkout [Meetup](https://www.meetup.com/) to find a local meetup for your favorite front-end tech.
 
 ## Blogs / Resources
+* [Can I Use](https://caniuse.com) - provides up-to-date browser tables for support of front-end web technologies on desktop & mobile web browsers.
 * [CSS Tricks](https://css-tricks.com/)
 * [Smashing Magazine](https://www.smashingmagazine.com/)
 * [Overreacted - Personal blog by Dan Abramov](https://overreacted.io/)
