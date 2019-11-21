@@ -7,27 +7,31 @@ This is a list of resources that have helped me learn web development over the y
 * [Designing with Web Standards (3rd Edition)](http://www.amazon.com/Designing-Web-Standards-Jeffrey-Zeldman/dp/0321616952/ref=sr_1_3?ie=UTF8&qid=1422842158&sr=8-3&keywords=standards+based+web+design) by Jeffrey Zeldman with Ethan Marcotte (October 25, 2009, original edition 2003)
 * [Responsive Design](http://alistapart.com/article/responsive-web-design) by Ethan Marcotte (May 25, 2010)
 * [Adaptive Web Design: Crafting Rich Experiences with Progressive Enhancement](http://www.amazon.com/Adaptive-Web-Design-Experiences-Progressive-ebook/dp/B0056ICETG/ref=sr_1_1?ie=UTF8&qid=1422844290&sr=8-1&keywords=aaron+gustafson) by Aaron Gustafson (May 31, 2011)
+* [Nicholas Zakas: Progressive Enhancement 2.0](https://youtu.be/hdTxeR90_1E)
+* [Mobile First](https://abookapart.com/products/mobile-first) - by Luke Wroblewski (2011) 
 
 ## The Internet / Web Platform
-* [The Web Platform Project](http://www.webplatform.org/)
-  * [The History of the Web](https://docs.webplatform.org/wiki/concepts/internet_and_web/The_History_of_the_Web)
-  * [How Does the Internet Work](https://docs.webplatform.org/wiki/concepts/Internet_and_Web/How_does_the_Internet_Work)
 * [Mozilla Developer Network - Learning the Web](https://developer.mozilla.org/en-US/Learn)
+* [Mozilla Developer Network - How the Web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
 ## Browsers
 * [How Do Browsers Work?](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) by Tali Garsiel and Paul Irish (August 5th, 2011)
 
 ## HTML
 * [Mozilla Developer Network - Learn HTML](https://developer.mozilla.org/en-US/Learn/HTML)
+* [What No One Told You About Z-Index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
+
+## CSS
+* [Mozilla Developer Network - Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+* [Inside a super fast CSS engine: Quantum CSS (aka Stylo)](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/) by [Lin Clark](https://code-cartoons.com/).
 
 ## JavaScript
 * [Mozilla Developer Network - A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [ES Modules: A cartoon deep dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/) by [Lin Clark](https://code-cartoons.com/).
-* [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani
 
-## CSS
-* [Inside a super fast CSS engine: Quantum CSS (aka Stylo)](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/) by [Lin Clark](https://code-cartoons.com/).
-
+## Accessibility (a11y)
+* [Mozilla Developer Network - Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 
 # Keeping up with Front-End Development
 
@@ -36,26 +40,47 @@ This is a list of resources that help me keep up to date with the latest in web 
 ## Meetups
 * Checkout [Meetup](https://www.meetup.com/) to find a local meetup for your favorite front-end tech.
 
-## Blogs
+## Blogs / Resources
+* [CSS Tricks](https://css-tricks.com/)
+* [Smashing Magazine](https://www.smashingmagazine.com/)
+* [Overreacted - Personal blog by Dan Abramov](https://overreacted.io/)
 
 ## Twitter
+* [People I follow](https://twitter.com/stacylondoner/following)
 
 ## Books
-* [Mobile First](https://abookapart.com/products/mobile-first) - by Luke Wroblewski (2011) 
+* [A Book Apart](https://abookapart.com/) - Every single book from this publisher is worth reading.
+* [Smashing Magazine Books](https://www.smashingmagazine.com/printed-books/)
 
 ## Tutorials
 * [Frontend Masters](https://frontendmasters.com/) - Advance your skills with in-depth, modern front-end engineering courses.
+* [Code Academy - Learn Web Development](https://www.codecademy.com/learn/paths/web-development)
 
 ## Podcasts
 * [Front End Happy Hour](http://frontendhappyhour.com/)
+* [Shop Talk Show](https://shoptalkshow.com/)
+* [JS Party](https://changelog.com/jsparty)
 
 ## Conferences
+* [An Event Apart](https://aneventapart.com/)
+* [SmashingConf](https://smashingconf.com)
+* [JSConf EU](https://2019.jsconf.eu/)
+* [CSSconf EU](https://2019.cssconf.eu/)
+* [Nordic.js](https://nordicjs.com/2019)
+* [React Rally](https://www.reactrally.com/)
+* [ReactConf](https://conf.reactjs.org/)
+* [EmberConf](https://emberconf.com/)
+* [ARTIFACT](https://artifactconf.com/)
+* [Fluent](https://conferences.oreilly.com/fluent/fl-ca)
+* [2019 Web Development Conferences](https://github.com/ryanburgess/2019-conferences)
+* [CSS Tricks - Conferences List](https://conferences.css-tricks.com/)
+
 
 ## Playing in Sandboxes
-* CodePen
-* CodeSandbox
-* Glitch
-* JSBin
+* [CodePen](https://codepen.io/)
+* [CodeSandbox](https://codesandbox.io/)
+* [Glitch](https://glitch.com/)
+* [JSBin](https://jsbin.com/?js,console)
 
 ## Newsletters
 * General Web
